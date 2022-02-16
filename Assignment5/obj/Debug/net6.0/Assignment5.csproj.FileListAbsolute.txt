@@ -1,0 +1,15 @@
+D:\MSU\Assignment5\bin\Debug\net6.0\Assignment5.exe
+D:\MSU\Assignment5\bin\Debug\net6.0\Assignment5.deps.json
+D:\MSU\Assignment5\bin\Debug\net6.0\Assignment5.runtimeconfig.json
+D:\MSU\Assignment5\bin\Debug\net6.0\Assignment5.dll
+D:\MSU\Assignment5\bin\Debug\net6.0\ref\Assignment5.dll
+D:\MSU\Assignment5\bin\Debug\net6.0\Assignment5.pdb
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.csproj.AssemblyReference.cache
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfoInputs.cache
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.AssemblyInfo.cs
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.csproj.CoreCompileInputs.cache
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.dll
+D:\MSU\Assignment5\obj\Debug\net6.0\ref\Assignment5.dll
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.pdb
+D:\MSU\Assignment5\obj\Debug\net6.0\Assignment5.genruntimeconfig.cache
