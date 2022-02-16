@@ -1,4 +1,4 @@
-﻿internal interface IVehicle
+internal interface IVehicle
 {
     internal enum Renttype
     {
